@@ -197,4 +197,16 @@
     <child link="hokuyo"/>
   </joint>
 
+  <gazebo reference="left_wheel">
+    <material>Gazebo/Green</material>
+  </gazebo>
+  <gazebo reference="right_wheel">
+    <material>Gazebo/Green</material>
+  </gazebo>
+  <gazebo reference="camera">
+    <material>Gazebo/red</material>
+  </gazebo>
+  <gazebo reference="chassis">
+    <material>Gazebo/white</material>
+  </gazebo>
 </robot>

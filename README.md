@@ -11,7 +11,7 @@ A simple robot with
 * RGB Camera
 * Hokuyo Rangefinder Lidar sensor
 
-<img width="300" alt="Robot" src="/mages/robot.PNG">
+<img width="300" alt="Robot" src="/images/robot.PNG">
 
 ### ball_chaser
 * Search camera feed for white pixels (Assumes ball is only thing that is white)
